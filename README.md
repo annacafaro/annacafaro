@@ -13,9 +13,9 @@ I'm passionate about having a positive impact on people's lives or the environme
 
 🌱 I’m currently learning data analysis
 
-💬 Ask me about anything. I'm interesting in sharing knowlege and learning from others. 
+💬 Ask me about anything. I'm interested in sharing knowledge and learning from others. 
 
-✨ Work in progress: personal blog.
+✨ Work in progress: a personal blog.
 
 ---
 
