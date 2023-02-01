@@ -23,14 +23,24 @@ I'm passionate about having a positive impact on people's lives or the environme
 
 <p align="center">
   <a href="https://www.linkedin.com/in/annacafaro/">
-    <img src="" />
+    <img src="https://raw.githubusercontent.com/annacafaro/annacafaro/1c4e8718948613a1adcbd455b704f72cc8c4a192/files_github_profile/LinkedIn.svg" width=48px />
   </a>
   <a href="https://deepnote.com/@annacafaro">
-    <img src="" />
+    <img src="https://raw.githubusercontent.com/annacafaro/annacafaro/1c4e8718948613a1adcbd455b704f72cc8c4a192/files_github_profile/deepnote-svgrepo-com.svg" width=48px />
   </a>
 </p>
 
-add icons -> linkedin, deepnote
+---
+
+### 👩‍💻 Some of my projects
+
+* [Automatic Guided Vehicle](https://github.com/AGV-G1USB/Inicio/wiki)
+
+A prototype of a mobile robot capable of automatically moving towards the objectives avoiding the possible obstacles of the track, using the algorithm of Path Planning, A Star. The prototype consists of detection, communication, motion planning and control systems. (Project team)
+
+* [Weather Station](https://github.com/japroyectos-2)
+
+Development and design of hardware of a prototype of a meteorological system, composed of an ultrasonic anemometer and an earthquake detector. (Project team)
 
 ---
 
@@ -50,16 +60,14 @@ add icons -> linkedin, deepnote
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,vscode,pytorch,latex" />
   </a>
-  <img src="" /> 
-  <img src="" />
-  <img src="" />
+  <img src="https://raw.githubusercontent.com/annacafaro/annacafaro/1c4e8718948613a1adcbd455b704f72cc8c4a192/files_github_profile/icons8-jupyter.svg" /> 
+  <img src="https://raw.githubusercontent.com/annacafaro/annacafaro/1c4e8718948613a1adcbd455b704f72cc8c4a192/files_github_profile/deepnote-svgrepo-com.svg" width=48px />
+  <img src="https://raw.githubusercontent.com/annacafaro/annacafaro/1c4e8718948613a1adcbd455b704f72cc8c4a192/files_github_profile/icons8-trello.svg" width=48px />
 </p> 
-
-agregar jupyter notebooks, deepnote, trello, 
 
 ---
 
-### My stats
+### 📊 My stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annacafaro&show_icons=true&theme=tokyonight)
 
@@ -90,4 +98,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Link de inconos usados: https://github.com/tandpfun/skill-icons
+Repo de las Git Stats: https://github.com/anuraghazra/github-readme-stats#top-languages-card
+
+para creditos de las estadisticas: 
+[](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 -->
