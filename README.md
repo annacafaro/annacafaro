@@ -21,6 +21,15 @@ I'm passionate about having a positive impact on people's lives or the environme
 
 ### :handshake: Connect with me 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/annacafaro/">
+    <img src="" />
+  </a>
+  <a href="https://deepnote.com/@annacafaro">
+    <img src="" />
+  </a>
+</p>
+
 add icons -> linkedin, deepnote
 
 ---
@@ -41,9 +50,12 @@ add icons -> linkedin, deepnote
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,arduino,vscode,pytorch,latex" />
   </a>
+  <img src="" /> 
+  <img src="" />
+  <img src="" />
 </p> 
 
-agregar deepnote, trello, 
+agregar jupyter notebooks, deepnote, trello, 
 
 ---
 
@@ -52,6 +64,8 @@ agregar deepnote, trello,
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annacafaro&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annacafaro&theme=tokyonight&layout=compact)](https://github.com/annacafaro/github-readme-stats)
+
+
 
 
 
