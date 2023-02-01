@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Anna María
 
-![]()
+![banner](https://github.com/annacafaro/annacafaro/blob/main/banner_GitHub_profile.png?raw=true)
 
 ---
 
@@ -16,6 +16,47 @@ I'm passionate about having a positive impact on people's lives or the environme
 💬 Ask me about anything. I'm interesting in sharing knowlege and learning from others. 
 
 ✨ Work in progress: personal blog.
+
+---
+
+### :handshake: Connect with me 
+
+add icons -> linkedin, deepnote
+
+---
+
+### Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,matlab,c,cpp" />
+  </a>
+</p> 
+
+---
+
+### Technologies and frameworks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,vscode,pytorch,latex" />
+  </a>
+</p> 
+
+agregar deepnote, trello, 
+
+---
+
+### My stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annacafaro&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annacafaro&theme=tokyonight&layout=compact)](https://github.com/annacafaro/github-readme-stats)
+
+
+
+
+
 
 
 
@@ -33,4 +74,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Link de inconos usados: https://github.com/tandpfun/skill-icons
 -->
