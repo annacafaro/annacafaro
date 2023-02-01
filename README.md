@@ -2,7 +2,6 @@
 
 ![banner](https://github.com/annacafaro/annacafaro/blob/main/banner_GitHub_profile.png?raw=true)
 
----
 
 Electronics engineer based in Spain. I have experience in data acquisition with knowledge of Python and MatLab for data manipulation and visualization. Additionally, with knowledge of biotechnologies oriented to robotic equipment to assist patients with disabilities or motor diseases.
 
@@ -16,8 +15,6 @@ I'm passionate about having a positive impact on people's lives or the environme
 💬 Ask me about anything. I'm interested in sharing knowledge and learning from others. 
 
 ✨ Work in progress: a personal blog.
-
----
 
 ### :handshake: Connect with me 
 
@@ -42,8 +39,6 @@ A prototype of a mobile robot capable of automatically moving towards the object
 
 Development and design of hardware of a prototype of a meteorological system, composed of an ultrasonic anemometer and an earthquake detector. (Project team)
 
----
-
 ### Languages
 
 <p align="center">
@@ -51,8 +46,6 @@ Development and design of hardware of a prototype of a meteorological system, co
     <img src="https://skillicons.dev/icons?i=py,matlab,c,cpp" />
   </a>
 </p> 
-
----
 
 ### Technologies and frameworks
 
